@@ -9,7 +9,6 @@
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" alt="🌏" width="26" height="26"> Connect with Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=fff&link=mailto%3Akhaneshan796%40gmail.com)](mailto:khaneshan796@gmail.com)
 [![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=flat&logo=protonmail&logoColor=fff&link=mailto%3Aeksd796%40proton.me)](mailto:eksd796@proton.me)
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="26" height="26"> Technologies & Tools

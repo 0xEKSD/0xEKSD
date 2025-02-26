@@ -49,8 +49,8 @@
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="26" height="26"> GitHub Stats 📊📊📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xEKSD-796&show_icons=true&theme=transparent)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xEKSD-796&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xEKSD&show_icons=true&theme=transparent)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xEKSD&layout=compact&theme=transparent)
 
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="26" height="26"> Fun Fact 🎉🎉🎉
